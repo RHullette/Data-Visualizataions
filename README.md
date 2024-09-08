@@ -1,1 +1,1 @@
-# Data-Visualizataions
+# Data-Visualizations
